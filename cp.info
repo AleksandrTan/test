@@ -1,5 +1,0 @@
-name = Catalog parser
-description = "The module provides parser features"
-package = Wish2Wish
-version = 1.0
-core = 7.x
